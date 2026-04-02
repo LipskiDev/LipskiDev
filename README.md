@@ -1,68 +1,117 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/Lipskiii/Lipskiii/main/assets/profile-header.png"  />
-</div>
+# Hi 👋, I'm Maximilian Lipski
 
-###
+### 🎮 Graphics Engineer | Real-Time Rendering | C++ / Vulkan
 
-<h3 align="left">👩‍💻  About Me</h3>
+I’m a computer science master’s student focused on **real-time rendering, GPU programming, and engine architecture**.
+My goal is to work as a **graphics/engine programmer in the games industry**.
 
-###
+---
 
-<p align="left">I'm Max from Germany!<br><br>- 🔭 I’m studying Computer Science<br>- 📚 I'm currently learning OpenGL<br>- ⚡ In my free time I like to make games</p>
+## 🚀 Current Focus
 
-###
-<table>
-  <tr>
-    <td>
-      <p>
-      <table>
-        <tr>
-          <th><center>🖥️ Languages</center></th>
-          <td>
-            <img align="center" alt="C++" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="Typescript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-          </td>
-        </tr>
-        <tr>
-          <th><center>🛠 Tools</center></th>
-          <td>
-            <img align="center" alt="VS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="UE" width="40px" src="https://skillicons.dev/icons?i=unreal"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="Blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-          </td>
-        </tr>
-        <tr>
-          <th><center>📚 APIs/Libraries</center></th>
-          <td>
-            <img align="center" alt="OpenGL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-          </td>
-        </tr>
-        <tr>
-          <th><center>🧰 Utilities</center></th>
-          <td>
-            <img align="center" alt="Cmake" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-            <img align="center" alt="GitLab" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>&nbsp;&nbsp;&nbsp;&nbsp;
-          </td>
-        </tr>
-      </table>
-      </p>
-    </td>
-  </tr>
-</table>
+* Building **Velos** → a low-level, API-agnostic Rendering Hardware Interface (RHI)
+* Developing **Rodan** → a render engine built on top of Velos
+* Learning **Vulkan deeply** (synchronization, resource management, pipelines)
+* Exploring **advanced rendering techniques** (ray tracing, BSSRDF, neural rendering)
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🧠 Technical Interests
 
-###
+* Real-time rendering pipelines
+* GPU architecture & optimization
+* Physically-based rendering (PBR, BSSRDF, volumetrics)
+* Ray tracing & hybrid rendering
+* Engine architecture (RHI design, abstraction layers)
+* Procedural & shader-based techniques
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LipskiDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp" />
+</p>
+
+### Graphics & Engines
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unreal,blender" />
+</p>
+
+### Platform & Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+---
+
+## 📌 Key Projects
+
+### 🔧 Velos (Rendering Hardware Interface)
+
+* API-agnostic abstraction over Vulkan (future: DX12)
+* Dynamic rendering pipeline
+* Shader compilation + SPIR-V reflection
+* Command list abstraction
+* Custom resource system (buffers, pipelines)
+
+👉 Focus: **clean architecture + explicit GPU control**
+
+---
+
+### 🔥 Rodan (Render Engine)
+
+* Built on top of Velos
+* Real-time rendering features (in progress)
+* Planned:
+
+  * Texturing & materials
+  * Shadow mapping
+  * Scene system
+  * ImGui integration
+
+👉 Focus: **practical rendering systems**
+
+---
+
+### 🧪 Research / Experimental Work
+
+* Neural rendering for **Hermite spline tubes**
+* Real-time approximations of **subsurface scattering for fur**
+* Planned:
+
+  * Clustered shading renderer
+  * Hardware ray tracing experiments
+
+---
+
+## 🎯 Career Goal
+
+I aim to become a **graphics / engine programmer in AAA game development**.
+
+---
+
+## 📫 Contact
+
+* Email: **[max.lipski@hotmail.com](mailto:max.lipski@hotmail.com)**
+* GitHub: https://github.com/LipskiDev
+* LinkedIn: https://linkedin.com/in/maximilian-lipski
+* Twitter/X: https://twitter.com/LipskiDev
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LipskiDev" />
+</p>
