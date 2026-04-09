@@ -1,117 +1,67 @@
-# Hi 👋, I'm Maximilian Lipski
+# Hi, I'm Maximilian Lipski 👋
 
-### 🎮 Graphics Engineer | Real-Time Rendering | C++ / Vulkan
+**Graphics / Engine Programmer**  
+C++ • Vulkan • Real-Time Rendering • GPU Programming
 
-I’m a computer science master’s student focused on **real-time rendering, GPU programming, and engine architecture**.
-My goal is to work as a **graphics/engine programmer in the games industry**.
-
----
-
-## 🚀 Current Focus
-
-* Building **Velos** → a low-level, API-agnostic Rendering Hardware Interface (RHI)
-* Developing **Rodan** → a render engine built on top of Velos
-* Learning **Vulkan deeply** (synchronization, resource management, pipelines)
-* Exploring **advanced rendering techniques** (ray tracing, BSSRDF, neural rendering)
+Computer science master’s student specializing in real-time rendering and low-level engine development. Strong focus on modern graphics APIs, GPU-driven systems, and scalable rendering architecture.
 
 ---
 
-## 🧠 Technical Interests
+## Experience & Focus
 
-* Real-time rendering pipelines
-* GPU architecture & optimization
-* Physically-based rendering (PBR, BSSRDF, volumetrics)
-* Ray tracing & hybrid rendering
-* Engine architecture (RHI design, abstraction layers)
-* Procedural & shader-based techniques
+- Designing and implementing a **low-level Rendering Hardware Interface (RHI)** in C++ (Vulkan backend, DX12 planned)  
+- Building a **real-time render engine** with explicit GPU resource management  
+- Working with **modern Vulkan features** (dynamic rendering, synchronization, descriptors, pipelines)  
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-### Languages
+### Velos — Rendering Hardware Interface  
+- API-agnostic RHI abstraction (Vulkan)  
+- Custom pipeline system, shader compilation, SPIR-V reflection  
+- Explicit resource management (buffers, images, descriptors)  
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-</p>
-
-### Graphics & Engines
-
-<p>
-  <img src="https://skillicons.dev/icons?i=unreal,blender" />
-</p>
-
-### Platform & Systems
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git" />
-</p>
+### Rodan — Render Engine  
+- Built on top of Velos  
+- Real-time rendering framework with ImGui integration  
+- In progress: materials, texturing, shadows, scene system  
 
 ---
 
-## 📌 Key Projects
+## Technical Skills
 
-### 🔧 Velos (Rendering Hardware Interface)
+**Languages:** C, C++  
+**Graphics:** Vulkan, Unreal Engine, Blender  
 
-* API-agnostic abstraction over Vulkan (future: DX12)
-* Dynamic rendering pipeline
-* Shader compilation + SPIR-V reflection
-* Command list abstraction
-* Custom resource system (buffers, pipelines)
+**Core Areas:**  
+- Real-time rendering pipelines  
+- GPU resource & memory management  
+- Physically-based rendering (PBR, BSSRDF)  
+- Engine architecture & abstraction design  
 
-👉 Focus: **clean architecture + explicit GPU control**
-
----
-
-### 🔥 Rodan (Render Engine)
-
-* Built on top of Velos
-* Real-time rendering features (in progress)
-* Planned:
-
-  * Texturing & materials
-  * Shadow mapping
-  * Scene system
-  * ImGui integration
-
-👉 Focus: **practical rendering systems**
+**Tools & Platform:** Windows, Linux, Git  
 
 ---
 
-### 🧪 Research / Experimental Work
+## Selected Work
 
-* Neural rendering for **Hermite spline tubes**
-* Real-time approximations of **subsurface scattering for fur**
-* Planned:
-
-  * Clustered shading renderer
-  * Hardware ray tracing experiments
+- Neural rendering for Hermite spline tubes  
+- Real-time fur scattering (BSSRDF approximation)  
+- Planned: clustered shading renderer, hardware ray tracing  
 
 ---
 
-## 🎯 Career Goal
+## Career Objective
 
-I aim to become a **graphics / engine programmer in AAA game development**.
-
----
-
-## 📫 Contact
-
-* Email: **[max.lipski@hotmail.com](mailto:max.lipski@hotmail.com)**
-* GitHub: https://github.com/LipskiDev
-* LinkedIn: https://linkedin.com/in/maximilian-lipski
-* Twitter/X: https://twitter.com/LipskiDev
+Seeking a **graphics / engine programming role** in game development (AAA or high-end real-time applications).
 
 ---
 
-## 📊 GitHub Stats
+## Contact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LipskiDev" />
-</p>
+- Email: max.lipski@hotmail.com  
+- GitHub: https://github.com/LipskiDev  
+- LinkedIn: https://linkedin.com/in/maximilian-lipski  
+- Twitter/X: https://twitter.com/LipskiDev  
+- Portfolio: https://maxlipski.dev
