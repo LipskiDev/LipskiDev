@@ -7,6 +7,13 @@ Computer science master’s student specializing in real-time rendering and low-
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LipskiDev&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=LipskiDev&theme=dark&hide_border=true" height="165"/>
+</p>
+
+---
+
 ## Experience & Focus
 
 - Designing and implementing a **low-level Rendering Hardware Interface (RHI)** in C++ (Vulkan backend, DX12 planned)  
